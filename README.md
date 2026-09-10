@@ -19,7 +19,7 @@ Antes de executar o jogo, certifique-se de ter o Python e a biblioteca Pygame in
 
 1. **Clone o repositório ou baixe os arquivos:**
 ```bash
-git clone https://github.com/seu-usuario/snake-pygame.git
+git clone https://github.com/vesky69/Snake-Game.git
 cd snake-pygame
 
 ```
