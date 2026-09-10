@@ -40,11 +40,9 @@ pip install pygame
 Execute o script principal do jogo através do terminal:
 
 ```bash
-python main.py
+python snake.py
 
 ```
-
-*(Substitua `main.py` pelo nome do arquivo onde o código está salvo).*
 
 ### 🎮 Controles
 
